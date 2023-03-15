@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B7E74&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luander+Silva.;Tenho+20+anos.;Atualmente+faço+TI+na+UNIP.;Estudo+programação+com+a+alura.;subir+cada+degrau+deste+mundo+da+tecnologia;é+meu+foco!;Bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanderSilva&show_icons=true&count_private=true&hide_border=true&title_color=C7BCA1&icon_color=F1D3B3&text_color=c9d1d9&bg_color=0d1117" alt="Luander Silva github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanderSilva&show_icons=true&count_private=true&hide_border=true&title_color=C7BCA1&icon_color=F1D3B3&text_color=c9d1d9&bg_color=0d1117" alt="Luander Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderSilva&layout=compact&hide_border=true&title_color=C7BCA1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuanderSilva&bg_color=0d1117&color=65647C&line=F1D3B3&point=8B7E74&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
